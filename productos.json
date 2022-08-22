@@ -1,0 +1,76 @@
+{
+    "status": "success",
+    "items": [ {
+        "id": 1,
+        "title": "MARK VII BASIC",
+        "price": 200,
+        "image": "./img/mark-basic.jpg",
+        "category": "pentesting"
+    },
+    {
+        "id": 2,
+        "title": "MARK VII + AC TACTICAL",
+        "price": 320,
+        "image": "./img/mark-tactical.jpg",
+        "category": "pentesting"
+    },
+        {
+            "id": 3,
+            "title": "WIFI COCONUT",
+            "price": 280,
+            "image": "./img/wifi-coconut.jpg",
+            "category": "pentesting"
+        },
+        {
+            "id": 4,
+            "title": "USB RUBBER DUCKY",
+            "price": 140,
+            "image": "./img/usb-rubber-ducky.jpg",
+            "category": "hot-plug"
+        },
+        {
+            "id": 5,
+            "title": "BASH BUNNY MARK II",
+            "price": 210,
+            "image": "./img/bash-bunny-mark2.jpg",
+            "category": "hot-plug"
+        },
+        {
+            "id": 6,
+            "title": "SHARK JACK CABLE",
+            "price": 160,
+            "image": "./img/shark-jack.jpg",
+            "category": "hot-plug"
+
+        },
+        {
+            "id": 7,
+            "title": "O.M.G FIELD KIT",
+            "price": 1600,
+            "image": "./img/omg-kit.jpg",
+            "category": "hot-plug"
+
+        },
+        {
+            "id": 8,
+            "title": "KEY CROC",
+            "price": 195,
+            "image": "./img/key-croc.jpg",
+            "category": "implants"
+        },
+        {
+            "id": 9,
+            "title": "PACKET SQUIRREL",
+            "price": 175,
+            "image": "./img/packet-squirrel.jpg",
+            "category": "implants"
+        },
+        {
+            "id": 10,
+            "title": "SCREEN CRAB",
+            "price": 285,
+            "image": "./img/screen-crab.jpg",
+            "category": "implants"
+        }
+    ]
+}
